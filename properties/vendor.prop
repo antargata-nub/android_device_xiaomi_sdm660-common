@@ -170,6 +170,10 @@ persist.vendor.delta_time.enable=true
 qemu.hw.mainkeys=0
 ro.com.android.dataroaming=false
 
+# Perf
+persist.sys.perf.scroll_opt=true
+persist.sys.perf.scroll_opt.heavy_app=1
+
 # QCOM
 persist.vendor.qcomsysd.enabled=1
 
