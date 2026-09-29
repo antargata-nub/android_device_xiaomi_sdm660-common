@@ -162,6 +162,7 @@ ro.hardware.vulkan=adreno
 vendor.opengles.version=196610
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
+debug.sf.enable_gl_backpressure=0
 
 # Media
 vidc.enc.dcvs.extra-buff-count=2
